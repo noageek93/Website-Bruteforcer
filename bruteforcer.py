@@ -3,8 +3,8 @@ import random
 from threading import Thread
 import os
 
-url = "https://requestswebsite.notanothercoder.repl.co/confirm-login"
-username = 'admin'
+url = "https://web.snapchat.com"
+username = 'Zakk.740'
 
 def send_request(username, password):
     data = {
